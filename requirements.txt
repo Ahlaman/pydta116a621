@@ -1,0 +1,2 @@
+bidict==0.19.0
+pymodbus==2.3.0
